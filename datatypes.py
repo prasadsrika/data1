@@ -18,4 +18,8 @@ e="lokeshit"
 print(e)
 print(type(e))
 print(id(e))
+a=10
+b=20
+print(a+b)
+
 
